@@ -2,6 +2,6 @@
 
 echo "Enter your password"
 
-read stored
+read -s stored
 
-echo "$stored"
+echo "your password is: $stored"
