@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PERSON1=Trump
+PERSON1=modi
 PERSON2=Musk
 
 echo "$PERSON1:: hi, $PERSON2"
